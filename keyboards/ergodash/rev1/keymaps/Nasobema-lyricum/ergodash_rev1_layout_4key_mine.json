@@ -34,7 +34,7 @@
       "KC_I",
       "KC_O",
       "KC_0",
-      "KC_MINS",
+      "KC_SLSH",
       "KC_LCTL",
       "KC_Q",
       "KC_S",
@@ -48,7 +48,7 @@
       "KC_K",
       "KC_L",
       "KC_P",
-      "KC_EQL",
+      "KC_BSLS",
       "KC_LBRC",
       "KC_A",
       "KC_X",
@@ -75,8 +75,8 @@
       "KC_LALT",
       "KC_LCTL",
       "TT(1)",
-      "KC_SLSH",
-      "KC_BSLS"
+      "KC_MINS",
+      "KC_EQL"
     ],
     [
       "KC_TRNS",
@@ -120,7 +120,7 @@
       "KC_8",
       "KC_9",
       "KC_RPRN",
-      "KC_MINS",
+      "KC_SLSH",
       "KC_GRV",
       "KC_1",
       "KC_B",
@@ -134,7 +134,7 @@
       "KC_COMM",
       "KC_DOT",
       "KC_0",
-      "KC_EQL",
+      "KC_PIPE",
       "KC_SCLN",
       "KC_A",
       "KC_TRNS",
@@ -147,8 +147,8 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_SLSH",
-      "KC_PIPE"
+      "KC_MINS",
+      "KC_EQL"
     ],
     [
       "KC_TRNS",
@@ -208,7 +208,7 @@
       "KC_G",
       "KC_APP",
       "KC_LCTL",
-      "KC_RCTL",
+      "KC_NO",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
