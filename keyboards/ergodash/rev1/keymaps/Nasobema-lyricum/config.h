@@ -28,12 +28,15 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 /* Select hand configuration */
 
-#define MASTER_LEFT
-// #define MASTER_RIGHT
+// #define MASTER_LEFT
+#define MASTER_RIGHT
 // #define EE_HANDS
 
 #define TAPPING_TOGGLE 1
 // use TT
 
+#undef TAPPING_TERM
+#define TAPPING_TERM 500
 #define PERMISSIVE_HOLD
-#define RETRO_TAPPING
+#define TAPPING_FORCE_HOLD
+// #define RETRO_TAPPING
